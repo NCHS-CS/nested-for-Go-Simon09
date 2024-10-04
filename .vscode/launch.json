@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "nested-for-Go-Simon09_bf028012"
+        },
+        {
+            "type": "java",
+            "name": "Memory",
+            "request": "launch",
+            "mainClass": "Memory",
+            "projectName": "nested-for-Go-Simon09_bf028012"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
